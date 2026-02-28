@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Premium World Clock",
+    "slug": "premium-world-clock",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.apprun.worldclock",
+      "permissions": ["VIBRATE"]
+    },
+    "plugins": ["expo-notifications"]
+  }
+}
